@@ -3,3 +3,5 @@ This file was created in master branch c:
 This line was added in first-branch @ 3:56pm
 
 Now I added another line in first branch @ 4:02pm
+
+Yet another line added in second branch @ 4:06pm
